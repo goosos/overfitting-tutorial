@@ -4,7 +4,7 @@
 
 > **✅ Tested:** vectorbt 1.1.1 · Python 3.12 · Last verified: 2026-10-08 · [Update policy](https://goosos.com/about#freshness)
 
-> **📊 Market snapshot** (as of 2026-10-08): SPY $779.09 · QQQ $759.66 · BTC $83,619 · ETH $2,575 — for context on when this was written.
+> **📊 Market snapshot** (as of 2026-10-08): SPY $777.22 · QQQ $757.73 · BTC $83,172 · ETH $2,580 — for context on when this was written.
 
 **Target keyword:** backtest overfitting
 **Meta description:** Your best backtest is lying to you. Learn the Deflated Sharpe Ratio and PBO: the statistics that correct for testing 100+ strategy variants. Real numbers from our MA grid, runnable code.
